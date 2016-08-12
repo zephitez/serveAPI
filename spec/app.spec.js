@@ -16,7 +16,7 @@ describe("Express Server API", function(){
         .get('/members')
         .expect([ { name: 'Jun Kai',
                     email: 'junkaiii@gmail.com',
-                    favcolor: 'Green' },
+                    favcolor: 'green' },
                     { name: 'Veronica Ler',
                     email: 'veronler@hotmail.com',
                     favcolor: 'white' },

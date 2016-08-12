@@ -3,7 +3,7 @@ module.exports = {
     res.json([{
 name: 'Jun Kai',
 email: 'junkaiii@gmail.com',
-favcolor: 'green'
+favcolor: 'gr'
 },
 {
 name: 'Veronica Ler',

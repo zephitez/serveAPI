@@ -8,7 +8,7 @@ favcolor: 'green'
 {
 name: 'Veronica Ler',
 email: 'veronler@hotmail.com',
-favcolor: 'whe'
+favcolor: 'white'
 },
 {
 name: 'Fu Zhezhang',
